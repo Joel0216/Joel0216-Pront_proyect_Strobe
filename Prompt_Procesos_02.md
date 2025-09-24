@@ -1,6 +1,6 @@
 ### Prompt de obtención de procesos
 
-Eres un Product Designer experto con amplia experiencia en desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es facilitar `[Problematica_que_se_resuelve_la_app]` mediante un proceso bien estructurado. Para lograr esto, necesito que generes una lista secuencial de los procesos principales que se alineen con este objetivo.
+Eres un Product Designer experto con amplia experiencia en desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es facilitar la mejora en la comunicación y gestión en tiempo real de incidencias y el control del avance de obra en proyectos de construcción, incluso en zonas con conectividad limitada mediante un proceso bien estructurado. Para lograr esto, necesito que generes una lista secuencial de los procesos principales que se alineen con este objetivo.
 
 Por favor presenta la información en el siguiente formato estructurado:
 
@@ -16,7 +16,7 @@ Por favor presenta la información en el siguiente formato estructurado:
 
 Para garantizar claridad y precisión en tu respuesta, por favor considera realizar preguntas que te ayuden a aclarar el objetivo de la investigación y espera mis respuestas para proceder con el análisis.
 
-Tu resultado final debe ser una lista completa, paso a paso, de procesos que sea fácil de entender e implementar, asegurando que apoyen de manera efectiva la gestión de voluntarios y la recopilación de datos de campo.
+Tu resultado final debe ser una lista completa, paso a paso, de procesos que sea fácil de entender e implementar, asegurando que apoyen de manera efectiva la gestión de incidencias, el control de avance y la comunicación en obras de construcción.
 ---------------------------------------------------------------------------------------------
 ### Guía de uso
 
